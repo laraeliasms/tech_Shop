@@ -129,9 +129,9 @@ Essas dificuldades foram resolvidas através de testes, pesquisas na documentaç
 
 # 👥 Integrantes
 
-* Nome do Integrante 1
-* Nome do Integrante 2
-* Nome do Integrante 3
+* Camilla Valenzuela
+* Lara Geovana
+* Gabriel Rios
 
 ---
 
@@ -140,4 +140,12 @@ Essas dificuldades foram resolvidas através de testes, pesquisas na documentaç
 O projeto permitiu aplicar conceitos fundamentais de desenvolvimento front-end moderno utilizando React, além de fortalecer conhecimentos em componentização, estilização e responsividade.
 
 A TechStore representa uma aplicação prática dos conteúdos estudados em sala de aula.
+
+---
+
+# Auxílio de IA
+
+Durante o projeto, foram utilizadas algumas IAs para auxílio no desenvolvimento do projeto.
+
+IAs utilizadas: Chatgpt, Google gemini, Lovable. 
 
